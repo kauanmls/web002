@@ -1,11 +1,11 @@
 h1:first-child {
   margin-top: 250px;
   text-align: center;
-  color: blue;
+  color: yellow;
 }
 h1:nth-child(2) {
   text-align: center;
-  color: blue;
+  color: yellow;
 }
 div {
   height: 50px;
