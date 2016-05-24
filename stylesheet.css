@@ -3,13 +3,16 @@ h1:first-child {
   text-align: center;
   color: white;
 }
-
+h1:nth-child(2) {
+  text-align: center;
+  color: white;
+}
 div {
   height: 50px;
 	width: 150px;
   border: 1px solid black;
   border-radius: 5px;
-  background-color: blue;
+  background-color: #ff0000;
   margin: auto;
 }
 body {
