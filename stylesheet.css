@@ -9,15 +9,12 @@ h1:nth-child(2) {
 }
 div {
   position: relative;
-  float: left;
   height: 50px;
 	width: 150px;
   border: 1px solid black;
   border-radius: 5px;
   background-color: #FFD700;
   margin: auto;
-  margin-left: 50%;
-  padding: 3px 5px;
 }
 body {
   text-align: center;
